@@ -7,5 +7,5 @@
   <a href="https://marciofelicioo.github.io/CodeCrafters/" style="color: green; text-decoration: none;">
     CodeCrafters
   </a>
-  (This link shows some of my GitHub repositories)
+   🌐(This link shows some of my GitHub repositories)
 </p>
