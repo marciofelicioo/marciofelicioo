@@ -4,8 +4,8 @@
 
 <p style="color: green;">
   Check this out:
-  <a href="https://marciofelicioo.github.io/CodeCrafters/" style="color: inherit;">
-    CodeCrafters
+  <a href="https://marciofelicioo.github.io/CodeCrafters/" style="color: green; text-decoration: none;">
+    codecrafters
   </a>
   (This link shows some of my GitHub repositories)
 </p>
