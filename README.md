@@ -5,7 +5,7 @@
 <p style="color: green;">
   Check this out:
   <a href="https://marciofelicioo.github.io/CodeCrafters/" style="color: green; text-decoration: none;">
-    codecrafters
+    CodeCrafters
   </a>
   (This link shows some of my GitHub repositories)
 </p>
