@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="AfterGlow.gif" alt="BannerImage" width="100%">
+  <img src="Winter.gif" alt="BannerImage" width="100%">
 </p>
 
 <p style="color: green;">
