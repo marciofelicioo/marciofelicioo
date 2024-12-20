@@ -17,8 +17,7 @@
  🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃<br>
   <img src="https://profile-counter.glitch.me/marciofelicioo/count.svg"/>
 </p>  
-<!-- <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marciofelicioo&theme=dark&layout=compact"width="48%"/> 
+
 
 
 
