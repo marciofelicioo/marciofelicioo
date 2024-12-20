@@ -10,5 +10,6 @@
   🌐 (This link features mostly video showcases and a few simple web projects, which are just some of my work here on GitHub.)
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=marciofelicioo&theme=onestar)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marciofelicioo&show_icons=true&theme=radical)
+
 
