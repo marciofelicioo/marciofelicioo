@@ -10,12 +10,16 @@
 </p>
 
 <p align="center">
+<<<<<<< HEAD
   <img src="WorkStation.gif" alt="BannerImage" width="15%">
 </p>
 
 <p align="center">
+=======
+>>>>>>> refs/remotes/origin/main
   <img src="HappyChristmas.gif" alt="BannerImage" width="15%">
 </p>
+
 
 <a href="https://github.com/marciofelicioo">
     <img src="Snake.svg" />
