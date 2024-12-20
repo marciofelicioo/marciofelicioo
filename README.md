@@ -10,10 +10,6 @@
 </p>
 
 <p align="center">
-  <img src="WorkStation.gif" alt="BannerImage" width="15%">
-</p>
-
-<p align="center">
   <img src="HappyChristmas.gif" alt="BannerImage" width="15%">
 </p>
 
