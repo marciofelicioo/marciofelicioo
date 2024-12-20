@@ -8,11 +8,6 @@
     CodeCrafters
   </a> 🌐 – This link features mostly video showcases and it also includes a few simple web projects, which represent just some of my work here on GitHub.
 </p>
-<<<<<<< HEAD
-#![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu_usuario&show_icons=true&theme=radical)
-#![trophy](https://github-profile-trophy.vercel.app/?username=seu_usuario&theme=onestar)
-#![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=seu_usuario&theme=dark)
-=======
 
 <a href="https://github.com/marciofelicioo">
     <img src="Snake.svg" />
@@ -24,6 +19,3 @@
 </p>  
 
 
-
-
->>>>>>> refs/remotes/origin/main
