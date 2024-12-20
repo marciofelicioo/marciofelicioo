@@ -10,6 +10,8 @@
   🌐 (This link features mostly video showcases and a few simple web projects, which are just some of my work here on GitHub.)
 </p>
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marciofelicioo&theme=dark)
+
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=marciofelicioo&show_icons=true&theme=radical) -->
 
 
