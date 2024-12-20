@@ -9,3 +9,4 @@
   </a>
   🌐 (This link features mostly video showcases and a few simple web projects, which are just some of my work here on GitHub.)
 </p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=marciofelicioo&theme=dark)
