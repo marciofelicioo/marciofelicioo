@@ -10,5 +10,5 @@
   🌐 (This link features mostly video showcases and a few simple web projects, which are just some of my work here on GitHub.)
 </p>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=seu_usuario&theme=onestar)
+![trophy](https://github-profile-trophy.vercel.app/?username=marciofelicioo&theme=onestar)
 
