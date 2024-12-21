@@ -9,10 +9,10 @@
   </a> 🌐 – This link features mostly video showcases and it also includes a few simple web projects, which represent just some of my work here on GitHub.
 </p>
 
-<!--<p align="center">
+<p align="center">
   <img src="HappyChristmas.gif" alt="BannerImage" width="15%">
 </p>
--->
+
 
 <!--<a href="https://github.com/marciofelicioo">
     <img src="Snake.svg" />
