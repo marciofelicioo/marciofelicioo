@@ -2,11 +2,10 @@
   <img src="Winter.gif" alt="BannerImage" width="100%">
 </p>
 
-<p style="color: green;">
-  Check this out:
+<p align="center">
   <a href="https://marciofelicioo.github.io/CodeCrafters/" style="color: green; text-decoration: none;">
-    CodeCrafters
-  </a> 🌐 – This link features mostly video showcases and it also includes a few simple web projects, which represent just some of my work here on GitHub.
+    <img src="CodeCrafters.png" alt="CodeCrafters" style="display: block; margin: 0 auto; width: 20%; height: auto;">
+  </a>
 </p>
 
 <!--<p align="center">
@@ -21,6 +20,4 @@
 <!-- <p align="center"> 
  🆅🅸🆂🅸🆃🅾🆁 🅲🅾🆄🅽🆃<br>
   <img src="https://profile-counter.glitch.me/marciofelicioo/count.svg"/>
-</p>  
-
-
+</p>
